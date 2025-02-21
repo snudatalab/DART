@@ -52,5 +52,15 @@ bash shell/test.sh
     If you want to train the model using an already uploaded cluster, set `--exist_cluster=yes` when executing the code.
     Alternatively, you can run the script `./shell/train.py`. 
 
+## Citation
+You can copy the following information:
 
+```bibtex
+@inproceedings{DART,
+    title={DART: Diversified and Accurate Long-Tail Recommendation},
+    author={Yun, Jeongin and Lee, Jaeri and Kang, U},
+    booktitle={The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+    year={2025}
+}
+```
 
